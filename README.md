@@ -1,6 +1,6 @@
 # Chatterbox
 
-Project made for laboratory of system programming at University of Pisa.
+This project was made for the laboratory of system programming at the University of Pisa.
 
 To have more information, read "Relazione_Chatterbox.pdf"
 
