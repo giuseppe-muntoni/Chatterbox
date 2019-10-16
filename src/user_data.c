@@ -1,6 +1,6 @@
 
 /** \file user_data.c  
-       \author Giuseppe Muntoni 544943
+       \author Giuseppe Muntoni
        Si dichiara che il contenuto di questo file e' in ogni sua parte opera  
        originale dell'autore  
      */  

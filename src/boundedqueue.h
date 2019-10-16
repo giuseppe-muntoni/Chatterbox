@@ -1,6 +1,6 @@
 
 /** \file chatty.c 
- *     \author  Giuseppe Muntoni 544943
+ *     \author  Giuseppe Muntoni
  *     \brief   Tale struttura dati è stata trovata in una delle soluzioni degli assegnamenti dati durante il corso 
  *              ed è stata da me modificata in maniera sostanziale per adattarla agli usi in tale progetto
  */
